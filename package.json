@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "spdy": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
